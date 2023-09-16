@@ -1,0 +1,47 @@
+---
+id: 86281779
+name: Gadget Soldier
+type: Normal Monster
+frameType: normal
+desc: A rust-free machine warrior born to battle.
+atk: 1800
+def: 2000
+level: 6
+race: Machine
+attribute: FIRE
+archetype: Gadget
+card_sets:
+- set_name: Labyrinth of Nightmare
+  set_code: LON-010
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.21'
+- set_name: Labyrinth of Nightmare
+  set_code: LON-E010
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.38'
+- set_name: Labyrinth of Nightmare
+  set_code: LON-EN010
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '4.1'
+card_images:
+- id: 86281779
+  image_url: https://images.ygoprodeck.com/images/cards/86281779.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/86281779.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/86281779.jpg
+- id: 86281779
+  image_url: https://images.ygoprodeck.com/images/cards/86281779.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/86281779.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/86281779.jpg
+- id: 86281779
+  image_url: https://images.ygoprodeck.com/images/cards/86281779.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/86281779.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/86281779.jpg
+card_prices:
+- cardmarket_price: '0.22'
+  tcgplayer_price: '0.25'
+  ebay_price: '4.00'
+  amazon_price: '1.07'
+  coolstuffinc_price: '0.39'

@@ -1,0 +1,52 @@
+---
+id: 68400115
+name: The Emperor's Holiday
+type: Trap Card
+frameType: trap
+desc: Negate all Equip Card effects on the field.
+race: Continuous
+card_sets:
+- set_name: Dark Beginning 2
+  set_code: DB2-EN020
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.11'
+- set_name: Labyrinth of Nightmare
+  set_code: LON-087
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.58'
+- set_name: Labyrinth of Nightmare
+  set_code: LON-E087
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.18'
+- set_name: Labyrinth of Nightmare
+  set_code: LON-EN087
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '2.88'
+- set_name: 'Turbo Pack: Booster Eight'
+  set_code: TU08-EN017
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.14'
+card_images:
+- id: 68400115
+  image_url: https://images.ygoprodeck.com/images/cards/68400115.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/68400115.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/68400115.jpg
+- id: 68400115
+  image_url: https://images.ygoprodeck.com/images/cards/68400115.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/68400115.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/68400115.jpg
+- id: 68400115
+  image_url: https://images.ygoprodeck.com/images/cards/68400115.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/68400115.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/68400115.jpg
+card_prices:
+- cardmarket_price: '0.16'
+  tcgplayer_price: '0.13'
+  ebay_price: '0.99'
+  amazon_price: '0.92'
+  coolstuffinc_price: '0.25'
